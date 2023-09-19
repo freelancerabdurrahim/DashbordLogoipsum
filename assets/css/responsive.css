@@ -1,0 +1,3010 @@
+@media all and (max-width: 1888px){
+/*	transaction-page-start*/
+	.transaction_dropdown_single_item a img {
+		 margin-left: 10px; 
+	}
+/*	transaction-page-end*/
+/*	user-page*/
+	.user_dropdown_search {
+		-webkit-box-flex: 0;
+		    -ms-flex: 0 0 70%;
+		        flex: 0 0 70%;
+	}
+}
+
+@media all and (max-width: 1715px){
+	.transaction_dropdown_search {
+		flex: 0 0 28%;
+	}
+	.transaction_dropdown_dropdown {
+		flex: 0 0 37%;
+	}
+	.trans_toggle_dropdown p i {
+		padding-left: 125px;
+	}
+	.account_content_currency_area {
+		height: 762px;
+	}
+}
+
+@media all and (max-width: 1690px){
+	.avalable_balance_dolar_btn a {
+		padding: 10px 20px;
+	}
+	.avalable_balance_dolar_btn a:last-child{
+		margin-right: 0px
+	}
+	.card_show_upgrade_btn {
+		padding: 20px 0px;
+	}
+
+/*	account-page-start*/
+	.account_masterCard_card {
+        flex: 0 0 68%;
+        margin-right: 15px
+	}
+/*	account-page-end*/
+	.tran_search_input.account_search_input.cards_search_input {
+		-webkit-box-flex: 0;
+		    -ms-flex: 0 0 75%;
+		        flex: 0 0 75%;
+	}
+	.cuntry_usd_single_item {
+		margin-right: 20px;
+		width: 180px;
+	}
+	.working_chartflow_area a img {
+		width: 100%;
+	}
+	.account_masterCard_card {
+		flex: 0 0 65%;
+	}
+	.transaction_dropdown_dropdown {
+		flex: 0 0 34%;
+	}
+	.transaction_dropdown_search {
+		flex: 0 0 32%;
+	}
+	.account_content_currency_area {
+		padding-right: 20px;
+	}
+
+	.account_card_dedails_area_wrapper {
+		padding-bottom: 100px;
+	}
+
+}
+
+
+
+
+@media all and (max-width: 1600px){
+	.cuntry_usd_single_item {
+		width: 185px;
+	}
+	
+/*	transaction-page-start*/
+	.tran_search_input {
+		-webkit-box-flex: 0;
+		    -ms-flex: 0 0 82%;
+		        flex: 0 0 82%;
+	}
+/*	transaction-page-end*/
+	
+/*	account-page-start*/
+
+	.account_masterCard_monthly_singleItem {
+		padding: 20px 25px;
+	}
+/*	account-page-end*/
+	.cards_wallet_area {
+		-webkit-box-flex: 0;
+		    -ms-flex: 0 0 25%;
+		        flex: 0 0 25%;
+	}
+	.cards_wallet_details {
+		-webkit-box-flex: 0;
+		    -ms-flex: 0 0 73%;
+		        flex: 0 0 73%;
+	}
+	.account_search_input {
+		-webkit-box-flex: 0;
+		    -ms-flex: 0 0 75%;
+		        flex: 0 0 75%;
+	}
+/*	user-page*/
+	.user_dropdown_search {
+		-webkit-box-flex: 0;
+		    -ms-flex: 0 0 65%;
+		        flex: 0 0 65%;
+	}
+
+/*	sms-page*/
+	.tickets_chatlist_single_user_dateTime p {
+		font-size: 12px;
+	}
+	.tickets_chatlist_single_user_info_cont h4 {
+		font-size: 14px;
+	}
+	.tickets_chatlist_single_user_dateTime span {
+		padding: 0px 4px;
+		font-size: 8px;
+	}
+	.tickets_chatlist_single_user_info_cont p {
+		font-size: 12px;
+	}
+	.tickets_chatList_addNew a.last_child_sms_addnew {
+		padding: 2px 3px;
+	}
+	.tickets_chatList_addNew a.last_child_sms_addnew img {
+		width: 20px;
+		margin-top: -3px;
+	}
+
+	.cuntry_usd_addnew a {
+		font-size: 14px;
+	}
+	.working_chartflow_area a img {
+		height: 320px;
+	}
+	.working_blankCard_cont p {
+		padding: 20px 20px;
+	}
+	.account_masterCard_card {
+		flex: 0 0 64%;
+	}
+	.transaction_dropdown_calender{
+		margin-right: 10px
+	}
+	.transaction_dropdown_dropdown {
+		margin-right: 10px;
+	}
+	.transaction_dropdown_search {
+		margin-right: 10px;
+	}
+	.transaction_dropdown_dropdown .transaction_dropdown_single_item {
+		margin-right: 15px;
+	}
+}
+
+
+
+
+@media all and (max-width: 1460px){
+	.working_capital_area_one {
+		display: -webkit-box;
+		display: -ms-flexbox;
+		display: flex;
+	}
+	.working_blankCard_addcard a {
+		font-size: 14px;
+		padding: 15px 0px;
+	}
+	.working_blankCard_img a img {
+		width: 100px;
+	}
+	.working_capital_right {
+		flex: 0 0 32%;
+	}
+	.working_capital_left {
+		flex: 0 0 70%;
+	}
+	.working_blankCard_img {
+		padding: 20px 20px 0px 0px;
+	}
+	.working_blankCard_cont {
+		 margin-top: 0px; 
+	}
+	.card_update {
+		-webkit-box-flex: 0;
+		    -ms-flex: 0 0 50%;
+		        flex: 0 0 50%;
+	}
+	.cards_b_top {
+		 margin-top: 0px; 
+	}
+	.cuntry_usd_single_item {
+		width: 164px;
+	}
+	.cuntry_usd_single_item_img a img {
+		width: 40px;
+	}
+	.cuntry_usd_dolar h3 {
+		font-size: 22px;
+	}
+	.cuntry_usd_primary p {
+		font-size: 10px;
+		padding: 2px 8px;
+	}
+	.cuntry_usd_dolar_name p {
+		font-size: 12px;
+	}
+	.cuntry_usd_addnew a {
+		font-size: 14px;
+		margin-top: 100px;
+	}
+/*	.working_available_balance {
+		 border-bottom: none; 
+	}*/
+	.working_blankCard_area {
+		margin-top: 25px;
+	}
+	.working_chartflow_area a img {
+		width: 100%;
+		height: 255px;
+	}
+	.working_blankCard_area {
+		-webkit-box-flex: 0;
+		    -ms-flex: 0 0 48%;
+		        flex: 0 0 48%;
+	}
+	.avalable_balance_dolar {
+		-webkit-box-flex: 0;
+		    -ms-flex: 0 0 48%;
+		        flex: 0 0 48%;
+	}
+	
+	.avalable_balance_dolar h1 {
+		font-size: 30px;
+	}
+	.avalable_balance_dolar_btn a {
+		padding: 8px 15px;
+		font-size: 14px;
+	}
+	.avalable_balance_dolar p {
+		font-size: 14px;
+	}
+	.avalable_balance_dolar h1 {
+		padding-top: 15px;
+		padding-bottom: 10px;
+	}
+	.master_card_number h5 {
+		font-size: 12px;
+		padding: 20px 0px;
+		letter-spacing: 1px;
+	}
+	.master_card_user > h5 {
+		font-size: 16px;
+	}
+	.master_card_circle a img{
+		width: 25px;
+	}
+	.card_show_upgrade_img a img {
+		width: 45px;
+	}
+	.card_show_upgrade_cont p {
+		font-size: 14px;
+	}
+	.card_show_upgrade_btn a {
+		font-size: 14px;
+		padding: 10px 10px;
+	}
+	.card_show_addnew_cont a {
+		font-size: 14px;
+	}
+	.card_show_addnew_img a img {
+		width: 45px;
+	}
+	.card_show_upgrade {
+		padding: 10px 20px;
+	}
+	.card_show_area{
+		-ms-flex-wrap: wrap;
+		    flex-wrap: wrap;
+	}
+	.avalable_balance_dolar_btn a{
+		padding: 10px 25px;
+	}
+	.working_capital_left {
+		flex: 0 0 65%;
+	}
+	.sidebar_area {
+		width: 300px;
+	}
+	
+
+
+/*	transaction-page-start*/
+	.transaction_dropdown_single_item a {
+		padding: 15px 10px;
+	}
+	.transaction_dropdown_single_item a img {
+		margin-left: 0px;
+		width: 20px;
+	}
+/*	transaction-page-end*/
+
+	.account_search_input {
+		-webkit-box-flex: 0;
+		    -ms-flex: 0 0 70%;
+		        flex: 0 0 70%;
+	}
+	.account_card_dedails_area_wrapper {
+		-webkit-box-orient: vertical;
+		-webkit-box-direction: normal;
+		    -ms-flex-direction: column;
+		        flex-direction: column;
+	}
+	.account_content_currency_single_item {
+		padding: 25px 10px 25px 25px;
+	}
+/*card-page-start*/
+	.cards_page_cardAddNew {
+		padding: 50px 20px;
+	}
+	.avalable_balance_card.cards_page_card {
+		width: 300px;
+		height: 230px;
+	}
+	.cards_wallet_details {
+		-webkit-box-flex: 0;
+		    -ms-flex: 0 0 auto;
+		        flex: 0 0 auto;
+	}
+	.account_card_deactived {
+		margin-left: 0px;
+		margin-top: 50px;
+		margin-bottom: 150px;
+	}
+	.cards_search_submit{
+		-webkit-box-flex: 0;
+		    -ms-flex: 0 0 auto;
+		        flex: 0 0 auto;
+	}
+	.cards_search_input input{
+		width: 90%;
+	}
+	.cards_area_section {
+		overflow: scroll;
+		padding-bottom: 20px;
+	}
+/*card-page-end*/
+/*user-page*/
+	.user_dropdown_search {
+		-webkit-box-flex: 0;
+		    -ms-flex: 0 0 55%;
+		        flex: 0 0 55%;
+	}
+
+/*	sms-page*/
+	.tickets_chatbox_chating_single_user_me .tickets_chating_you_cont {
+		width: 450px;
+		margin-right: 0px
+	}
+	.tickets_chatbox_chating_single_user_me .short_me_cont {
+		width: auto;
+	}
+	.content_wrapper_area.home_page_wrapper {
+		padding: 0px 20px;
+	}
+
+	.working_blankCard_cont p {
+		padding: 20px 15px;
+		font-size: 14px;
+	}
+	.home_view_card{
+		margin-top: 30px
+	}
+	.right_deposti {
+		padding-top: 0px;
+	}
+	.right_deposti_number {
+		padding: 0px 0px;
+	}
+	.cuntry_usd_dolar_name {
+		 padding: 0px 0px; 
+	}
+	.account_masterCard_card {
+		flex: 0 0 62%;
+	}
+	.account_content_left_area {
+/*		height: 86vh;*/
+	}
+		
+
+
+
+}
+
+
+@media all and (max-width: 1400px){
+	.card_show_upgrade {
+		flex: 0 0 21%;
+	}
+	.card_show_addnew {
+		flex: 0 0 21%;
+	}
+	.card_show_available_balacne_card {
+		flex: 0 0 54%;
+	}
+	.card_show_upgrade_btn {
+		padding: 0px 0px;
+		padding-top: 20px;
+	}
+	.avalable_balance_dolar span {
+		font-size: 10px;
+	}
+	.avalable_balance_dolar_btn a {
+		padding: 10px 20px;
+		font-size: 12px;
+	}
+	.card_show_upgrade_btn a {
+		font-size: 12px;
+		padding: 10px 10px;
+	}
+	.cuntry_usd_single_item_img a img {
+		width: 30px;
+	}
+	.cuntry_usd_dolar_name {
+		padding-top: 5px;
+	}
+	.cuntry_usd_addnew a {
+		margin-top: 90px;
+		font-size: 13px;
+	}
+	.cuntry_usd_dolar h3 {
+		font-size:18px;
+	}
+	.cuntry_usd_dolar_name p {
+		font-size: 14px;
+	}
+	.cuntry_usd_primary p {
+		font-size: 10px;
+		padding: 5px 10px;
+	}
+
+	.cuntry_usd_single_item {
+		margin-right: 15px;
+	}
+	.working_capital_right {
+		flex: 0 0 31%;
+	}
+	.working_blankCard_cont p {
+		padding: 15px 20px;
+		font-size: 14px;
+	}
+	.cuntry_usd_dolar_name{
+		padding-bottom: 0px
+	}
+	.working_blankCard_img a img {
+		width: 60px;
+	}
+	.working_blankCard_img {
+		padding: 15px 0px 0px 0px;
+	}
+	.working_available_balance {
+		padding-bottom: 30px;
+	}
+	.avalable_balance_dolar h1 {
+		padding-top: 10px;
+		padding-bottom: 5px;
+		font-size: 24px;
+	}
+	.capital_view_all a {
+		font-size: 12px;
+		padding: 10px 0px;
+	}
+	.working_blankCard_img a img {
+		width: 100px;
+	}
+	.working_chartflow_area a img {
+		height: 240px;
+	}
+	.cuntry_usd_dolar {
+		padding-bottom: 5px;
+	}
+	.content_wrapper_area {
+		width: 100%;
+	}
+	.account_masterCard_card {
+		flex: 0 0 60%;
+	}
+	.transaction_dropdown_submit_cencel a {
+		margin-left: 0px;
+	}
+	.transaction_dropdown_dropdown {
+		flex: 0 0 27%;
+	}
+	.transaction_dropdown_calender input[type="date"] {
+		font-size: 13px;
+		padding: 15px 15px;
+	}
+	.transaction_dropdown_calender {
+		margin-right: 10px;
+	}
+	.transaction_dropdown_search {
+		flex: 0 0 32%;
+	}
+	.transaction_dropdown_dropdown {
+		flex: 0 0 33%;
+	}
+	.transaction_dropdown_calender {
+		position: relative;
+	}
+	.account_content_masterCard_area {
+		margin-left: 15px;
+	}
+
+	.curency_single_item_dolar h3 {
+		font-size: 18px;
+	}
+	.curency_single_item_dolar p span{
+		font-size: 12px;
+	}
+	.curency_single_item_flag a img {
+		width: 40px;
+	}
+	/*.account_content_currency_area {
+		height:750px;
+	}*/
+	.view_all{
+		margin-bottom: 100px !important;
+	}
+	.deactive_acc_border{
+		margin-bottom: 100px !important;
+	}
+	.account_content_currency_area{
+		height: 522px;
+	}
+	.account_content_masterCard_area {
+		height:600px;
+	}
+	.view_all {
+		padding-bottom: 150px;
+	}
+}
+
+
+
+
+
+@media all and (max-width: 1320px){
+	.cuntry_usd_single_item {
+		width: 147px;
+	}
+	.working_capital_right {
+		flex: 0 0 28%;
+	}
+	.working_capital_left {
+		flex: 0 0 68%;
+	}
+	.working_capital_right {
+		flex: 0 0 30%;
+	}
+	.account_masterCard_card {
+		flex: 0 0 57%;
+	}
+	.transaction_dropdown_submit_search input {
+		font-size: 14px;
+	}
+	.transaction_dropdown_search {
+		flex: 0 0 27%;
+	}
+	.transaction_dropdown_calender {
+		margin: 0px 10px;
+	}
+	.transaction_dropdown_dropdown .transaction_dropdown_single_item {
+		margin-right: 18px;
+	}
+	.transaction_dropdown_dropdown {
+		flex: 0 0 35%;
+	}
+	
+}
+
+@media all and (max-width: 1268px){
+	.working_chartflow_area a img {
+		height: 260px;
+	}
+	.working_capital_right {
+		flex: 0 0 29%;
+	}
+	.account_masterCard_card {
+		flex: 0 0 52%;
+	}
+	.master_sendReceive_single a {
+		font-size: 12px;
+	}
+
+	.transaction_dropdown_calender {
+		margin: 0px 20px;
+	}
+	.transaction_dropdown_submit_cencel a {
+		font-size: 12px;
+	}
+	.transaction_dropdown_dropdown {
+		flex: 0 0 34%;
+	}
+	.transaction_dropdown_calender {
+		margin: 0px 20px;
+		margin-right: 12px;
+	}
+}
+
+
+
+
+
+@media all and (max-width: 1199px){
+	/*.sidebar_area {
+		display: none;
+	}*/
+	.header_area_heading h3{
+		display: none;
+	}
+	.header_area_heading a.mobile_bars{
+		color: #111313;
+		font-size: 28px;
+	}
+	/*mobile-menu-start*/
+	.sidebar_area{
+		-webkit-transform: translate(-100%,0px);
+		        transform: translate(-100%,0px);
+		position: absolute;
+		-webkit-transition: 0.6s;
+		transition: 0.6s;
+		width: 250px;
+		z-index: 9999;
+
+	}
+	.mobile_menu_hide_show{
+		-webkit-transform: translate(0%,0px);
+		        transform: translate(0%,0px);
+		z-index: 9999;
+		-webkit-transition: 0.6s;
+		transition: 0.6s;
+	}
+	.mobile_bars{
+		display: block;
+	}
+	.mobile_times{
+		display: block;
+	}
+	.mobile_times i{
+		font-size: 24px;
+		color: #009975;
+	}
+	.mobile_times{
+		margin-right: 50px
+	}
+	.navbar_logo{
+		display: -webkit-box;
+		display: -ms-flexbox;
+		display: flex;
+		-webkit-box-pack: justify;
+		    -ms-flex-pack: justify;
+		        justify-content: space-between;
+		-webkit-box-align: center;
+		    -ms-flex-align: center;
+		        align-items: center;
+	}
+	.navbar_logo a img {
+		width: 200px;
+	}
+	.dash_deskh_hide{
+		display: block;
+		padding-bottom: 15px;
+	}
+	.mobile_logo_area{
+		display: -webkit-box;
+		display: -ms-flexbox;
+		display: flex;
+		-webkit-box-align: center;
+		    -ms-flex-align: center;
+		        align-items: center;
+	}
+	.mobile_logo{
+		display: block;
+		margin-left: 30px
+	}
+	.navbar_area {
+		padding-left: 20px;
+		padding-right: 20px;
+	}
+	.home-logo {
+		margin-left: -10px;
+	}
+	.navbar_area ul li a i {
+		font-size: 18px;
+	}
+	.navbar_area ul li a {
+		font-size: 14px;
+		padding: 10px 15px;
+	}
+	.navbar_area h4 {
+		font-size: 12px;
+	}
+	.navbar_logo a.mobile_times {
+		margin-right: 30px;
+	}
+	.updat_goPro_check a img {
+		width: 55px;
+	}
+	.menu_bottom_goPro_btn a {
+		font-size: 14px;
+		padding: 12px 30px;
+		margin-top: 10px;
+	}
+	.updat_goPro_check {
+		top: -25px;
+	}
+	.udate_goPro_cont p {
+		font-size: 14px;
+	}
+	.menu_Updat_goPro {
+		padding: 20px;
+		width: 210px;
+	}
+	.sidebar_bottom_goPro {
+		margin: 100px 0px;
+	}
+	/*mobile-menu-end*/
+
+
+
+	.avalable_balance_dolar h1 {
+		font-size: 30px;
+	}
+
+	.card_show_upgrade {
+		flex: 0 0 24%;
+	}
+	.card_show_addnew {
+		display: -webkit-box;
+		display: -ms-flexbox;
+		display: flex;
+		-webkit-box-align: center;
+		    -ms-flex-align: center;
+		        align-items: center;
+		-webkit-box-pack: center;
+		    -ms-flex-pack: center;
+		        justify-content: center;
+		-webkit-box-flex: 0;
+		        flex: 0 0 24%;
+	}
+	.card_show_available_balacne_card {
+		        flex: 0 0 48%;
+	}
+	.card_show_area{
+		-ms-flex-wrap: wrap;
+		    flex-wrap: wrap;
+	}
+	.avalable_balance_dolar {
+		-webkit-box-flex: 0;
+		    -ms-flex: 0 0 50%;
+		        flex: 0 0 50%;
+	}
+	.working_blankCard_area {
+		-webkit-box-flex: 0;
+		    -ms-flex: 0 0 50%;
+		        flex: 0 0 50%;
+	}
+	.working_chartflow_area a img {
+		width: 100%;	
+	}
+	.transaction_dropdown_single_item a {
+		padding: 15px 20px;
+	}
+	.working_capital_left {
+		flex: 0 0 63%;
+	}
+
+/*	account-page-start*/
+/*	.account_content_currency_single_item {
+		-webkit-box-orient: vertical;
+		-webkit-box-direction: normal;
+		    -ms-flex-direction: column;
+		        flex-direction: column;
+	}*/
+/*	.curency_single_item_flagDolar {
+		-webkit-box-orient: vertical;
+		-webkit-box-direction: normal;
+		    -ms-flex-direction: column;
+		        flex-direction: column;
+		-webkit-box-align: start;
+		    -ms-flex-align: start;
+		            -ms-grid-row-align: flex-start;
+		        align-items: flex-start;
+	}*/
+	.account_content_currency_area {
+		margin-left: 0px;
+		-webkit-box-flex: 0;
+		    -ms-flex: 0 0 auto;
+		        flex: 0 0 auto;
+/*		margin-right: 20px;*/
+		padding-right: 0px
+	}
+	.account_content_area_wrapper {
+		-webkit-box-align: start;
+		    -ms-flex-align: start;
+		            -ms-grid-row-align: flex-start;
+		        align-items: flex-start;
+		/*-webkit-box-orient: vertical;
+		-webkit-box-direction: normal;
+		    -ms-flex-direction: column;
+		        flex-direction: column;*/
+	}
+	.account_content_currency_single_item{
+		border-bottom: 0px;
+		border: 1px solid #009975;
+		margin-right: 15px;
+		border-radius: 10px;
+		background: #fff;
+	}
+	.account_content_currency_single_item {
+		padding: 20px 10px;
+	}
+	.curency_single_item_flag a img {
+		width: 35px;
+	}
+	.curency_single_item_dolar h3 {
+		font-size: 22px;
+		padding: 10px 0px;
+	}
+	.curency_single_item_dolar p {
+		font-size: 12px;
+	}
+	.curency_single_item_active p {
+		font-size: 10px;
+		padding-top: 10px;
+	}
+	.curency_single_item_dolar p span {
+		font-weight: 500;
+	}
+	.account_content_currency_single_item{
+		position: relative;
+	}
+	.account_usd_border_right_kon{
+		display: block;
+	}
+	.account_usd_border_right_kon{
+		position: absolute;
+		top: -6px;
+		right: 0;
+		display: none;
+	}
+	.account_content_masterCard_area {
+	    margin-left: 0px; 
+		flex: 0 0 65%;
+	}
+/*	account-page-start*/
+
+/* cards-page-start*/
+	.cards_page_card {
+		-webkit-box-flex: 0;
+		    -ms-flex: 0 0 35%;
+		        flex: 0 0 35%;
+		margin-right: 20px
+	}
+	.cards_area_section {
+		overflow: scroll;
+		padding-bottom: 20px;
+	}
+	.avalable_balance_card.cards_page_card {
+		height: 200px;
+	}
+	.card_cards_addnew_img a img{
+		width: 100px;
+	}
+	.cards_wallet_balance_details_area_wrapper {
+		-webkit-box-orient: vertical;
+		-webkit-box-direction: normal;
+		    -ms-flex-direction: column;
+		        flex-direction: column;
+		margin-top: 25px
+	}
+	.cards_wallet_area {
+		margin-right:0px;
+		width: 100%;
+		margin-bottom: 20px
+	}
+	.cards_wallet_details {
+		-webkit-box-flex: 0;
+		    -ms-flex: 0 0 100%;
+		        flex: 0 0 100%;
+		width: 100%;
+	}
+	.cards_search_input input {
+		width: 100%;
+	}
+	.tran_search_input.account_search_input.cards_search_input {
+		-webkit-box-flex: 0;
+		    -ms-flex: 0 0 80%;
+		        flex: 0 0 80%;
+	}
+/* cards-page-end*/
+
+/*user-page-start*/
+	.user_dropdown_search input {
+		padding: 15px 15px;
+		padding-left: 20px;
+		padding-left: 40px;
+	}
+	.user_dropdown_filter a {
+		padding: 15px 25px;
+		font-size: 14px;
+	}
+	.user_dropdown_filter a img {
+		width: 18px;
+	}
+	.user_dropdown_search a {
+		position: absolute;
+		top: 13px;
+		left: 10px;
+	}
+	.user_dropdown_search a img{
+		width: 20px;
+	}
+	.user_dropdown_addnew a {
+		font-weight: 400;
+		padding: 14px 15px;
+	}
+	.user_single_item p {
+		font-size: 12px;
+	}
+/*user-page-end*/
+
+/*sms-page*/
+	.ar-chating-submit-up img{
+		width: 25px;
+	}
+	.tickets_chatbox_user_cont h4 {
+		font-size: 14px;
+	}
+	.tickets_chatbox_user_cont p {
+		font-size: 12px;
+	}
+	.tickets_chatBox_profile_iconSearch a img{
+		width: 20px;
+	}
+	.tickets_chatBox_profile_iconStar a {
+		width: 30px;
+		height: 30px;
+	}
+	.tickets_chatBox_profile_iconStar a i{
+		font-size: 13px;
+	}
+	.tickets_chatbox_chating_single_user_me {
+		-webkit-box-orient: vertical;
+		-webkit-box-direction: normal;
+		    -ms-flex-direction: column;
+		        flex-direction: column;
+	}
+	.tickets_chating_you_date {
+		margin-right: 0px;
+		padding-top: 10px
+	}
+	.tickets_chatbox_chating_single_user_you {
+		margin-bottom: 20px;
+		-webkit-box-orient: vertical;
+		-webkit-box-direction: normal;
+		    -ms-flex-direction: column;
+		        flex-direction: column;
+		-webkit-box-align: first baseline;
+		    -ms-flex-align: first baseline;
+		            -ms-grid-row-align: first baseline;
+		        align-items: first baseline;
+	}
+
+	div#myBlueDIV {-webkit-box-ordinal-group: 2;-ms-flex-order: 1;order: 1;}
+	div#myRedDIV  {-webkit-box-ordinal-group: 3;-ms-flex-order: 2;order: 2;}
+
+	.working_capital_area_one {
+		margin-top: 50px;
+	}
+	.cuntry_usd_single_item {
+		width: 165px;
+	}
+
+	/*.content_wrapper_area {
+		width: 100%;
+	}*/
+	.header_top_profile {
+		margin-right: 50px;
+	}
+	.working_capital_right {
+		flex: 0 0 28%;
+	}
+
+	.navbar_area ul li a i {
+		width: 30px;
+	}
+	.account_content_area_wrapper {
+		 margin-left: 0px; 
+	}
+	.account_masterCard_card {
+		flex: 0 0 67%;
+	}
+	.transaction_dropdown_search {
+		flex: 0 0 25%;
+	}
+	.account_search_input {
+		flex: 0 0 85%;
+	}
+
+	/*.modal.fade .modal-dialog {
+		transform: translate(0px,-30px);
+		transition: transform .3s ease-out;
+	}*/
+	.modal.fade .modal-dialog-ar {
+		transform: translate(15px,-30px);
+		transition: transform .3s ease-out;
+	}
+	.modal.show .modal-dialog-ar {
+		margin-right: 0px;
+		transition: 3s;
+	}
+	.overly_transaction_area {
+		width: 100%;
+	}
+	/*.modal-dialog {
+		max-width: 500px;
+		margin: 1.75rem auto;
+		max-width: 100%;
+	}*/
+	.ar-modal-content {
+		width: 100%;
+	}
+	.overly_transaction_area {
+		height: 805px;
+	}
+	.transaction_dropdown_dropdown {
+		flex: 0 0 35%;
+	}
+	.transaction_dropdown_search {
+		flex: 0 0 30%;
+	}
+	.transaction_dropdown_calender {
+		margin: 0px 15px;
+	}
+	.transaction_dropdown_calender {
+		margin-left: 20px;
+	}
+	.transaction_dropdown_submit_cencel a {
+		padding-left: 5px;
+	}
+	.ar-model-log{
+		padding-right: 0px;
+	}
+
+	.account_single_newAccount {
+/*		position: relative;*/
+/*		border: 1px solid #009975;*/
+		border-radius: 10px;
+		margin-right: 15px
+	}
+	.account_single_newAccount a {
+		padding: 25px 15px;
+		font-size: 12px;
+		border-radius: 10px;
+	}
+	.account_content_currency_single_item`:hover {
+		border: 1px solid #009975;
+	}
+	/*.account_active_focus:first-child {
+		 border-top: 1px solid #009975; 
+	}*/
+/*	.account_content_currency_single_item:hover.account_active_focus, .account_content_currency_single_item.active {
+		border: none;
+		border-left: none;
+	}*/
+	.account_content_currency_single_item{
+		border:1px solid transparent;
+		margin-bottom: 15px;
+		border-top: 1px solid transparent;
+		border-bottom: 1px solid #D6E0DE;
+	}
+	.account_active_focus:first-child {
+		border-top: 1px solid transparent;
+	}
+	.account_monthly_single_cont h3 {
+		font-size: 20px;
+	}
+	.account_monthly_single_img {
+		margin-right: 10px;
+	}
+	.account_monthly_single_cont p {
+		font-size: 14px;
+	}	
+	.account_monthly_single_img a img{
+		width: 40px;
+	}
+
+
+/*	.account_content_left_area {
+		height: 79vh;
+	}*/
+	.account_content_currency_area {
+		height: 700px;
+	}
+	.account_single_newAccount {
+		bottom: 0px;
+	}
+
+	.account_single_newAccount {
+		margin-right: 0px; 
+		margin-left: -55px;
+		border-radius: 0px;
+	}
+
+	.view_all{
+		margin-bottom: 200px !important;
+	}
+	.account_in{
+		margin-bottom: 150px
+	}
+
+
+
+
+
+
+
+}
+
+
+@media all and (max-width: 1024px){
+	.cuntry_usd_single_item {
+		width: 150px;
+	}
+
+	.transaction_dropdown_search {
+		flex: 0 0 27%;
+	}
+	.account_content_currency_area {
+		overflow: scroll;
+		padding-bottom: 20px;
+		cursor: pointer;
+		overflow-y: scroll;
+		/* padding-right: 20px; */
+/*		margin-right: 10px;*/
+	}
+	.account_masterCard_monthly_singleItem {
+		padding: 22px 15px;
+	}
+	.account_monthly_single_img a img{
+		width: 35px;
+	}
+	.account_monthly_single_cont h3 {
+		font-size: 16px;
+	}
+
+
+}
+
+
+
+
+
+
+@media all and (max-width: 991px){
+	.cuntry_usd_single_item {
+		padding: 10px 30px;
+	}
+	.cuntry_usd_addnew a {
+		margin-top: 100px;
+		font-size: 14px;
+	}
+	.working_chartflow_area a img{
+		height: auto;
+	}
+	.card_show_upgrade {
+        flex: 0 0 48%;
+	}
+	.card_show_addnew {
+    	flex: 0 0 48%;
+	}
+	.cuntry_usd_dolar h3{
+		font-size: 20px;
+	}
+	.working_available_balance_btn a {
+		padding: 10px 20px;
+	}
+	/*.working_chartflow_area a img {
+		width: 100%;
+	}*/
+	.navbar_area ul li a {
+		font-size: 14px;
+		padding: 12px 15px;
+	}
+	.navbar_area {
+		padding-left: 15px;
+		padding-right:15px;
+	}
+	.navbar_logo a img {
+		width: 230px;
+	}
+	.menu_bottom_goPro_btn a {
+		font-size: 14px;
+		padding: 10px 20px;
+		margin-top: 10px;
+	}
+	.updat_goPro_check a img {
+		width: 55px;
+	}
+	.updat_goPro_check {
+		top: -25px;
+	}
+	.home-logo {
+		margin-left: -20px;
+	}
+	h3 {
+		font-size: 26px;
+	}
+	.cuntry_usd_dolar_name p {
+		font-size: 12px;
+	}
+	.single_profile_sub_cont a {
+		font-size: 14px;
+	}
+	.single_profile_sub_cont a i {
+		font-size: 16px;
+		margin-right: 10px;
+	}
+	.profile_account_setting a {
+		padding-bottom: 5px;
+	}
+	.pro_account_setting_single a {
+		font-size: 14px;
+	}
+	.profile_sub_menu{
+		margin-bottom: 0px
+	}
+	.profilw_upgrade a {
+		font-size: 12px;
+	}
+	.profilw_upgrade a i {
+		font-size: 16px;
+		margin-right: 10px;
+	}
+	.profilw_upgrade {
+		padding: 10px 0px;
+		padding-left: 20px
+	}
+	.card_show_available_balacne_card {
+		flex: 0 0 100%;
+		margin-bottom: 20px;
+	}
+	.card_show_upgrade {
+		padding: 20px 20px;
+	}
+
+/*	transaction-page-strt*/
+	.transaction_dropdown_area {
+		-webkit-box-pack: start;
+		    -ms-flex-pack: start;
+		        justify-content: flex-start;
+	}
+	.transaction_dropdown_single_item {
+		-webkit-box-flex: 0;
+		    -ms-flex: 0 0 auto;
+		        flex: 0 0 auto; 
+		width: 200px;
+		margin-bottom: 10px;
+		margin-right: 10px
+	}
+	.transaction_dropdown_single_item a img {
+		margin-left:40px;
+	}
+	.transaction_dropdown_single_item a {
+		padding: 15px 20px;
+	}
+	.tran_search_input {
+        flex: 0 0 79%;
+	}
+/*	.transaction_top_search {
+		display: none;
+	}*/
+	.trasaction_search_filter_sub{
+		display: block;
+	}
+/*	transaction-page-end*/
+
+/*benifici-page-start*/
+	.benifici_mb_single_item {
+		-webkit-box-flex: 0;
+		    -ms-flex: 0 0 49%;
+		        flex: 0 0 49%;
+	}
+/*benifici-page-start*/
+
+/*account-page-start*/
+	.curency_single_item_dolar h3 {
+		font-size: 18px;
+	}
+	.account_today .today_single_item_img a img{
+		width: 30px;
+	}
+	.account_today .today_single_item_img a {
+		width: 35px;
+		height: 35px;
+	}
+
+	.account_card_dedails_area_wrapper {
+		-webkit-box-orient: vertical;
+		-webkit-box-direction: normal;
+		    -ms-flex-direction: column;
+		        flex-direction: column;
+	}
+	.account_card_deactived {
+		margin-left: 0px;
+		margin-top: 30px;
+	}
+	.card_details_single_acc_name span, .card_details_single_acc_bank span {
+		font-size: 12px;
+	}
+	.card_details_single_acc_name p, .card_details_single_acc_bank p {
+		color: #111313;
+		font-size: 14px;
+		font-weight: 400;
+	}
+/*account-page-end*/
+
+/*cards-page-start*/
+	.master_card_user > h5 {
+		font-size: 16px;
+	}
+	.master_card_number h5 {
+		font-size: 14px;
+	}
+/*cards-page-end*/
+
+/*user-page-stat*/
+	.user_dropdown_filter .user_filter_mobile_hide{
+		display: none;
+	}
+	.user_dropdown_filter .user_filter_mobile_show{
+		display: block;
+		padding: 11px 13px;
+	}
+	.user_dropdown_filter .user_filter_mobile_show img{
+		margin-right: 0px
+	}
+	.user_dropdown_addnew .user_addnew_mobile_show{
+		display: block;
+		padding: 10px 10px;
+	}
+	.user_dropdown_addnew .user_addnew_mobile_show img{
+		margin-right: 0px
+	}
+	.user_dropdown_addnew .user_addnew_mobile_hide{
+		display: none;
+	}
+	.user_dropdown_search {
+		-webkit-box-flex: 0;
+		    -ms-flex: 0 0 78%;
+		        flex: 0 0 78%;
+	}
+	.user_dropdown_search input {
+		padding: 12px 15px;
+		padding-left: 40px
+	}
+	.user_single_amount,
+	.user_single_date,
+	.user_single_invoice {
+		display: none;
+	}
+	.user_single_name {
+		-webkit-box-flex: 0;
+		    -ms-flex: 0 0 33%;
+		        flex: 0 0 33%;
+	}
+	.user_single_type {
+		-webkit-box-flex: 0;
+		    -ms-flex: 0 0 33%;
+		        flex: 0 0 33%;
+		text-align: center;
+	}
+	.user_single_action {
+		-webkit-box-flex: 0;
+		    -ms-flex: 0 0 33%;
+		        flex: 0 0 33%;
+		text-align: right;
+	}
+	.user_addNew_area {
+		width: 345px;
+	}
+	.user_addNew_area {
+		left: -701%;
+	}
+/*user-page-end*/
+
+/*sms-page*/
+	.tickets_content_area_section {
+		margin-left: 0px; 
+		-webkit-box-orient: vertical; 
+		-webkit-box-direction: normal; 
+		    -ms-flex-direction: column; 
+		        flex-direction: column;
+	}
+	.tickets_chat_list_area{
+		margin-right: 0px;
+		margin-bottom: 30px
+	}
+	.tickets_chatlist_single_user {
+		padding: 10px 10px;
+	}
+	.tickets_chatList_search input:placeholder{
+		font-size: 12px;
+	}
+	.tickets_chatList_search a img {
+		width: 17px;
+	}
+	.chating_addNew_area {
+		left: -225px;
+	}
+	.chating_addNew_area {
+		width: 300px;
+	}
+
+/*	notification-page*/
+	.notification_content_area_section {
+		-webkit-box-orient: vertical;
+		-webkit-box-direction: normal;
+		    -ms-flex-direction: column;
+		        flex-direction: column;
+		margin-left: 0px
+	}
+	.notification_tag_area {
+		 margin-right: 0px; 
+		margin-bottom: 30px;
+	}
+	.notification_tag_signle_img a i {
+		font-size: 14px;
+	}
+	.notification_tag_signle_img a {
+		width: 40px;
+		height: 40px;
+	}
+	.notification_content_singl_wrapper {
+		 padding: 0px; 
+	}
+	.notification_tag_signle_cont h4 {
+		font-size: 16px;
+	}
+	.notification_tag_signle_cont p {
+		font-size: 12px;
+	}
+	.notification_content_cont h4 {
+		font-size: 16px;
+	}
+	.notification_content_cont p {
+		font-size: 12px;
+	}
+	.pagination_area ul li a {
+		font-size: 14px;
+		padding: 5px 12px;
+		border-radius: 6px;
+	}
+
+/*	address-page*/
+	.address_right_wrap{
+		padding: 25px 20px;
+	}
+	.address_single_img a img{
+		width: 40px
+	}
+	.address_single_cont p {
+		font-size: 16px;
+	}
+
+/*	transferAmount-page*/
+	.transferAmount_single_item {
+		padding: 20px 10px;
+	}
+	.transferAmount_menuTab_area {
+		width: auto;
+	}
+	.transferAmount_single_icon a {
+		width: 40px;
+		height: 40px;
+	}
+	.transferAmount_single_icon a i {
+		font-size: 16px;
+	}
+	.transferAmount_title_transfer h3 {
+		font-size: 18px;
+	}
+	.transferAmount_title_feadback a {
+		font-size: 12px;
+		padding: 4px 17px;
+		border-radius: 7px;
+	}
+	.transferAmount_title_close a {
+		font-size: 14px;
+	}
+	.transferAmount_title_close a img {
+		width: 16px;
+	}
+	.success_area a img {
+		width: 200px;
+	}
+	.success_bank_trasfer h3 {
+		font-size: 24px;
+	}
+	.success_bank_trasfer p {
+		font-size: 14px;
+	}
+	.working_capital_area_one {
+		flex-direction:column;
+	}
+	.working_capital_right {
+		margin-top: 20px;
+	}
+	.working_capital_right_balance_card {
+		display: flex;
+	}
+	.avalable_balance_dolar.working_available_balance {
+		padding-bottom: 0px;
+		padding-top: 35px
+	}
+	.working_blankCard_cont p {
+		padding: 20px 100px;
+		font-size: 14px;
+	}
+
+	.cuntry_usd_single_item {
+		width: 170px;
+		padding: 10px 15px;
+	}
+	.country_usd_area {
+		overflow: scroll;
+		padding-bottom: 18px;
+		cursor: pointer;
+	}
+	.cuntry_usd_single_item {
+		min-width: 150px;
+		padding: 10px 15px;
+		width: 214px;
+	}
+	.working_available_balance{
+		border-bottom:none;
+	}
+	.working_blankCard_area {
+		 margin-top: 0px; 
+	}
+	.working_blankCard_img a img {
+		width: 75px;
+	}
+	.account_masterCard_card {
+		flex: 0 0 65%;
+	}
+	.transaction_dropdown_single_item.trans_toggle_dropdown{
+		width: auto;
+		margin-bottom: 0px;
+	}
+	.transaction_dropdown_search {
+		flex: 0 0 100%;
+		width: 100%;
+		margin-right: 0px
+	}
+	.transaction_dropdown_area_wrapper {
+		flex-direction: column;
+		align-items: flex-start;
+	}
+	.transaction_dropdown_dropdown {
+		flex: 0 0 27%;
+		width: 100%;
+		margin-top: 20px
+	}
+	.transaction_dropdown_calender {
+		 margin: 0px 0px; 
+		width: 100%;
+		margin-top: 20px
+	}
+	.transaction_dropdown_submit {
+		flex: 0 0 24%;
+		width: 100%;
+		margin-top: 20px;
+		display: flex;
+		justify-content: flex-end;
+	}
+	.transaction_dropdown_dropdown .transaction_dropdown_single_item{
+		flex: 0 0 49%;
+	}
+	.transaction_dropdown_dropdown .transaction_dropdown_single_item:last-child {
+		
+		margin-right:0px;
+	}
+	div#mycencel   {order: 1;}
+	div#mysearch  {order: 2;}
+
+	.transaction_dropdown_area_wrapper {
+		padding: 0px 10px;
+	}
+	.transaction_top_menu ul li a span{
+		display: none;
+	}
+
+	.overly_dolar a {
+		font-size: 24px;
+	}
+	.overly_btn a {
+		font-size: 12px;
+		padding: 8px 20px;
+	}
+	.transaction_dropdown_dropdown {
+		margin-right: 0px;
+	}
+	.transaction_dropdown_dropdown .transaction_dropdown_single_item {
+		margin-right: 10px;
+	}
+	.transaction_dropdown_submit_cencel a {
+		padding-right: 15px;
+	}
+	.transaction_dropdown_calender input[type="date"] {
+		background-position: 98%;
+	}
+
+	.content_wrapper_area {
+		padding: 0px 30px;
+	}
+	.account_content_currency_single_item {
+		padding: 10px 10px;
+	}
+
+	.curency_single_item_active {
+		width: 67px;
+	}
+	.curency_single_item_active p {
+		font-size: 8px;
+	}
+	.curency_single_item_active p img {
+		margin-right: 7px;
+	}
+/*	.account_content_currency_area {
+		height: 660px;
+	}*/
+/*	.account_content_left_area {
+		height: 0vh;
+	}*/
+
+
+
+
+}
+
+
+
+
+
+@media all and (max-width: 767px){
+	.avalable_balance_dolar_btn a:first-child {
+		background: #009975;
+		color: #fff;
+	}
+	.working_capital_area_one {
+		display: block;
+	}
+	.working_chartflow_area a img {
+		width: 100%;
+	}
+	.home_transaction_area_wrapper {
+		margin-top: 30px;
+	}
+	/*.country_usd_area {
+		overflow: scroll;
+		padding-bottom: 18px;
+		cursor: pointer;
+	}*/
+
+	
+	.card_show_upgrade_btn {
+		padding: 20px 0px;
+	}
+/*	.avalable_balance_dolar {
+		-webkit-box-flex: 0;
+		    -ms-flex: 0 0 100%;
+		        flex: 0 0 100%;
+	}*/
+	/*.avalable_balance_card {
+		-webkit-box-flex: 0;
+		    -ms-flex: 0 0 100%;
+		        flex: 0 0 100%;	
+		margin-top: 20px
+	}*/
+	.card_show_upgrade {
+		padding: 0px 20px;
+	}
+	.working_blankCard_area {
+		-webkit-box-flex: 0;
+		    -ms-flex: 0 0 100%;
+		        flex: 0 0 100%;
+	}
+	.card_update {
+		        flex: 0 0 50%;
+	}
+	.avalable_balance_dolar.working_available_balance {
+		padding-top: 15px;
+	}
+	.dash_deskh_hide {
+		display: none;
+	}
+	.profile_notification_area {
+		width: 300px;
+	}
+	.profile_notification_area {
+		left: -275px;
+	}
+	.avalable_balance_dolar h1 {
+		font-size: 34px;
+	}
+	.header_profile_account a img {
+		width: 35px;
+	}
+	.udate_goPro_cont {
+		padding-top: 20px;
+		padding-bottom: 5px;
+	}
+	.menu_Updat_goPro {
+		padding: 20px;
+		width: 200px;
+		margin-top: 70px;
+	}
+	.sidebar_bottom_goPro {
+		margin: 100px 0px;
+	}
+	.navbar_area {
+		padding-left: 10px;
+		padding-right: 10px;
+	}
+	.menu_bottom_goPro_btn a {
+		font-size: 12px;
+		padding: 10px 30px;
+		margin-top: 10px;
+	}
+	.avalable_balance_dolar h1 {
+		font-size: 30px;
+		padding-top: 10px;
+		padding-bottom: 5px;
+	}
+	.avalable_balance_dolar_btn a {
+		padding: 7px 20px;
+		font-size: 14px;
+	}
+	.avalable_balance_dolar p {
+		font-size: 14px;
+	}
+	.master_card_user > h5 {
+		font-size: 16px;
+	}
+	.master_card_number h5 {
+		font-size: 14px;
+		padding: 15px 0px;
+	}
+	.working_blankCard_addcard a {
+		font-size: 14px;
+		padding: 15px 0px;
+	}
+	.home_trans_heading h4 {
+		font-size: 20px;
+	}
+	.home_trans_viewAll a {
+		font-size: 14px;
+	}
+	.home_head_today p {
+		font-size: 14px;
+		padding: 0px 0px;
+	}
+	.capital_view_all a {
+		font-size: 14px;
+		padding: 14px 0px;
+	}
+	.cuntry_usd_addnew a {
+		font-size: 13px;
+		margin-top: 80px
+	}
+	.working_capital_area_one {
+		margin-top: 40px;
+	}
+	.content_wrapper_area {
+		padding: 0px 20px;
+	}
+
+
+/*	transaction-page-strt*/
+	.tran_search_submit{
+		display: none;
+	}
+	.tran_search_submit_new a{
+	}
+	.tran_search_submit_new{
+		display: block;
+	}
+	.tran_search_input {
+        flex: 0 0 90%;
+	}
+	.tran_search_submit_account a {
+		border-radius: 5px;
+	}
+	.tran_search_input input {
+		padding: 15px 20px;
+		padding-left: 60px
+	}
+	.tran_search_input a {
+		top: 14px;
+		left: 15px;
+	}
+	.transaction_top_menu ul li a {
+		font-size: 18px;
+		padding: 15px 5px;
+		padding-bottom: 25px;
+	}
+	.pagination_area ul li a {
+		font-size: 16px;
+		padding: 4px 12px;
+		border-radius: 10px;
+	}
+	/*.overly_transaction_area {
+		width: 400px;
+	}*/
+	/*.modal.show .modal-dialog-ar {
+		margin-right: -100px;
+	}*/
+	/*.ar-modal-content{
+		width: 80%;
+	}*/
+	.transaction_dropdown_single_item a {
+		padding: 15px 27px;
+	}
+	.drop_ar_content span {
+		font-size: 14px;
+	}
+	.drop_ar_content p {
+		font-size: 12px;
+	}
+	.drop_ar_img img {
+		width: 45px;
+	}
+	.upload_invoice_img h5 {
+		font-size: 16px;
+	}
+	.transaction_note label {
+		font-size: 14px;
+	}
+	.receipnt_single_details p {
+		font-size: 12px;
+	}
+
+/*	transaction-page-end*/
+/*benifici-page-start*/
+	.benifici_mb_single_item {
+		-webkit-box-flex: 0;
+		    -ms-flex: 0 0 100%;
+		        flex: 0 0 100%;
+	}
+	.benifici_contet_top_addNew {
+		-webkit-box-orient: vertical;
+		-webkit-box-direction: normal;
+		    -ms-flex-direction: column;
+		        flex-direction: column;
+		-webkit-box-pack: start;
+		    -ms-flex-pack: start;
+		        justify-content: flex-start;
+		-webkit-box-align: start;
+		    -ms-flex-align: start;
+		            -ms-grid-row-align: flex-start;
+		        align-items: flex-start;
+	}
+	.benifici_search {
+		margin-right: 0px;
+		width: 100%;
+		margin-bottom: 20px
+	}
+	.benifici_search input {
+		width: 100%;
+	}
+	.benifici_mb_user_name h3 {
+		font-size: 18px;
+	}
+	.benifici_mb_user_shortcode p, .benifici_mb_user_account p {
+		font-size: 12px;
+	}
+	.benifici_mb_user a.beni_img img {
+		width: 45px;
+	}
+	.benifici_mb_user_mail a {
+		font-size: 12px;
+	}
+	.benifici_addnew_cont > a {
+		padding: 7px 10px;
+	}
+	.benifici_addnew_cont a img {
+		margin-right: 5px;
+	}
+/*	.benifici_addNew_receipnt_area {
+		left: 0;
+		width: 300px;
+	}*/
+	.benifici_addNew_title h4 {
+		font-size: 14px;
+	}
+	.benifici_addNew_personal_business a {
+		font-size: 12px;
+		padding: 8px 30px;
+	}
+	.benifici_form_group input::-webkit-input-placeholder {
+		font-size: 10px;
+	}
+	.benifici_form_group input::-moz-placeholder {
+		font-size: 10px;
+	}
+	.benifici_form_group input:-ms-input-placeholder {
+		font-size: 10px;
+	}
+	.benifici_form_group input::placeholder {
+		font-size: 10px;
+	}
+	.benifici_form_group input[type="text"] {
+		padding: 5px 10px;
+	}
+	.benifici_form_group_check label {
+		font-size: 12px;	
+	}
+	.benifici_addNew_create a {
+		padding: 10px 0px;
+		border-radius: 5px;
+		font-size: 12px;
+		font-weight: 400;
+		margin-bottom: 10px;
+	}
+	.benifici_form_group_check {
+		display: -webkit-box;
+		display: -ms-flexbox;
+		display: flex;
+	}
+
+/*benifici-page-end*/
+
+/*account-page-start*/
+	/*.account_content_currency_area {
+		overflow: scroll;
+		padding-bottom: 18px;
+		cursor: pointer;
+	}*/
+	.account_content_currency_single_item {
+		position: relative;
+/*		width: 170px;*/
+	}
+	.account_masterCard_area_wrapper {
+		-webkit-box-orient:vertical;
+		-webkit-box-direction:normal;
+		    -ms-flex-direction:column;
+		        flex-direction:column;
+	}
+	.account_masterCard_monthly {
+		margin-top: 20px;
+		display: -webkit-box;
+		display: -ms-flexbox;
+		display: flex;
+		-webkit-box-align: center;
+		    -ms-flex-align: center;
+		        align-items: center;
+		-webkit-box-pack: justify;
+		    -ms-flex-pack: justify;
+		        justify-content: space-between;
+	}
+	.account_masterCard_monthly_singleItem{
+		margin-bottom: 0px
+	}
+	.account_masterCard_monthly_singleItem {
+		-webkit-box-flex: 0;
+		    -ms-flex: 0 0 48%;
+		        flex: 0 0 48%;
+	}
+	.account_monthly_single_cont h3 {
+		font-size: 18px;
+	}
+	.account_monthly_single_cont p {
+		font-size: 14px;
+	}
+	.account_masterCard_monthly_singleItem {
+		padding: 20px 15px;
+	}
+	.account_monthly_single_img {
+		margin-right: 20px;
+	}
+	.account_searh_desk_hide{
+/*		display: !important;*/
+	}
+	.trasaction_search_filter .account_searh_mobile_hide{
+		display: none;
+	}
+	.trasaction_search_filter .account_searh_desk_hide{
+		display: block;
+	}
+	.account_search_filter .tran_search_submit_account a {
+		padding: 10px 10px;
+		font-size: 16px;
+	}
+	.account_search_filter .tran_search_submit_account  a img {
+		margin-right: 0px;
+	}
+	.account_search_filter .tran_search_input input {
+		padding: 10px 20px;
+		padding-left: 40px;
+	}
+	.account_search_filter .tran_search_input a {
+		top: 10px;
+		left: 10px;
+	}
+	.account_dropdown_single_item .form-select {
+		padding: 12px 20px;
+		background-size: 15px;
+		font-size: 14px;
+	}
+/*account-page-start*/
+
+/*cards-page-start*/
+	.avalable_balance_card.cards_page_card {
+		-webkit-box-flex: 0;
+		    -ms-flex: 0 0 auto;
+		        flex: 0 0 auto;
+	}
+	.avalable_balance_card.cards_page_card {
+		width: 250px;
+		height: 180px;
+	}
+	.cards_page_card.cards_page_cardAddNew{
+		width: 250px;
+		height: 180px;
+	}
+	.avalable_balance_card.cards_page_card {
+		margin-top: 0px;
+	}
+	.card_cards_addnew_img a img {
+		width: 80px;
+	}
+	.card_cards_addnew_content a {
+		font-size: 14px;
+		font-weight: 400;
+	}
+	.cards_page_card {
+		-webkit-box-flex: 0;
+		    -ms-flex: 0 0 40%;
+		        flex: 0 0 40%;
+	}
+/*cards-page-start*/
+
+/*sms-page*/
+	.tickets_chatlist_single_user_info_img a img {
+		width: 30px;
+	}
+	.tickets_chatlist_wrapper_area {
+		padding: 0px 5px;
+	}
+	.tickets_chatlist_single_user_info_img {
+		margin-right: 7px;
+	}
+	.tickets_chatbox_user_img a img {
+		width: 30px;
+	}
+	.tickets_chatbox_chating_single_user_me .tickets_chating_you_cont {
+		width: 370px;
+		margin-right: 0px;
+	}
+	.tickets_chatbox_chating_single_user_me .tickets_chating_you_cont {
+		width: 280px;
+	}
+	.tickets_chatbox_chating_single_user_me .short_me_cont {
+		width: auto;
+	}
+	.tickets_chating_you_cont p {
+		padding: 10px 15px;
+	}
+	.tickets_chatbox_chating_area_wrap {
+		padding: 10px 5px;
+	}
+	.chating_sendbox_smstypeing a img {
+		width: 15px;
+	}
+	.ar-chating-submit-up img {
+		width: 18px;
+	}
+	.chating_sendbox_smstypeing input {
+		padding-left: 35px;
+	}
+	.chating_sendbox_smstypeing input::-webkit-input-placeholder{
+		font-size: 12px;
+	}
+	.chating_sendbox_smstypeing input::-moz-placeholder{
+		font-size: 12px;
+	}
+	.chating_sendbox_smstypeing input:-ms-input-placeholder{
+		font-size: 12px;
+	}
+	.chating_sendbox_smstypeing input::placeholder{
+		font-size: 12px;
+	}
+	.tickets_chatBox_profile_area {
+		padding: 20px 10px;
+	}
+	.tickets_chatBox_profile_iconSearch, .tickets_chatBox_profile_iconStar, .tickets_chatBox_profile_iconDots {
+		margin-left: 10px;
+	}
+	.chating_addNew_area {
+		width: 250px;
+	}
+	.chating_addNew_area {
+		left: -180px;
+	}
+	.chating_addnew_drop_zone .drop-zone__prompt a {
+		font-size: 12px;
+	}
+	.drop_ar_img.user_addnew_img img{
+		width: 35px;
+	}
+
+/*	satting-page*/
+	.satting_item_single_cont h4 {
+		font-size: 14px;
+	}
+	.satting_item_single_cont p {
+		font-size: 12px;
+	}
+	.satting_item_single_title h3 {
+		font-size: 18px;
+		padding-bottom: 15px;
+	}
+	.satting_item_single_btn .switch {
+		width: 40px;
+		height: 22px;
+	}
+	.satting_item_single_btn .slider:before {
+		height: 17px;
+		width: 17px;
+		left: 0px;
+		bottom: 3px;
+	}
+	.satting_item_single_cont_btn {
+		-webkit-box-align: start;
+		    -ms-flex-align: start;
+		            -ms-grid-row-align: flex-start;
+		        align-items: flex-start;
+	}
+
+/*	satting-page*/
+
+/*transferAmount*/
+	.transferAmount_single_cont {
+		display: none;
+	}
+	.transferAmount_flag_area_wrapper {
+		width: auto;
+	}
+	.transferAmount_flag_single_personal a i {
+		font-size: 14px;
+	}
+	.transferAmount_flag_single_personal a {
+		font-size: 12px;
+	}
+	.transfer_flag_cont h3 {
+		font-size: 16px;
+	}
+	.transfer_flag_Flag a img {
+		width: 25px;
+	}
+	.transfer_curency_select .currency-selector {
+		background-size: 18px;
+		font-size: 14px;
+	}
+	.flag_submit_confirm_area input {
+		padding: 14px 16px;
+	}
+	.transfer_curency_select .form-control {
+		padding: 15px 20px;
+	}
+	.transferAmount_menuTab_area {
+		margin-top: 40px;
+	}
+	.transferAmount_title_transfer h3 {
+		font-size: 16px;
+	}
+	.transferAmount_user_information_cont h4 {
+		font-size: 14px;
+	}
+	.transferAmount_user_information_cont p {
+		font-size: 10px;
+	}
+	.transferAmount_user_information_arrow a img{
+		width: 15px;
+	}
+	.transferAmount_user_information_cont a {
+		padding-top: 0px;
+	}
+	.transferAmount_review_details {
+		width: auto;
+	}
+	.reviwe_de_block{
+		display: block;
+	}
+	.transferAmount_review_menu_change a {
+		font-size: 12px;
+	}
+	.reviwe_de_block a {
+		font-size: 12px;	
+	}
+	.transferAmount_review_item{
+		padding: 10px;
+	}
+	.transferAmount_review_title h4 {
+		font-size: 16px;
+	}
+	.transferAmount_transaction_single_item p {
+		font-size: 12px;
+	}
+	.success_area a img {
+		width: 150px;
+	}
+	.success_bank_trasfer h3 {
+		font-size: 20px;
+	}
+	.success_bank_trasfer p {
+		font-size: 12px;
+	}
+	.success_download a {
+		font-size: 12px;
+	}
+	.success_download a img {
+		width: 15px;
+	}
+	.success_download a {
+		padding: 7px 15px;
+	}
+	.user_addNew_area {
+		width: 250px;
+	}
+	.user_role_radio_single_label h5 {
+		font-size: 12px;
+	}
+	.user_role_radio_single_label > p {
+		font-size: 10px;
+	}
+	.benifici_addNew_title h4 {
+		font-size: 14px;
+	}
+	.user_addNew_area {
+		left: -205px;
+	}
+	.user_form_group input {
+		padding: 7px 10px;
+	}
+	.single_noti_cont h6 {
+		font-size: 12px;
+	}
+	.single_noti_img > a img {
+		margin-right: 10px;
+		width: 30px;
+	}
+	.bottom_notification > a {
+		font-size: 12px;
+	}
+	.bottom_notification {
+		padding-top: 10px;
+	}
+
+
+
+	.working_blankCard_area {
+		flex: 0 0 50%;
+	}
+	.avalable_balance_dolar {
+		flex: 0 0 50%;
+	}
+	.working_blankCard_cont p {
+		padding: 25px 50px;
+		font-size: 12px;
+	}
+
+	.cuntry_usd_single_item {
+		width: 165px;
+		padding: 10px 15px;
+	}
+	.cuntry_usd_dolar {
+		padding: 5px 0px;
+	}
+	.header_top_profile {
+		 margin-right: 10px; 
+	}
+	.account_masterCard_card {
+		 margin-right: 0px; 
+	}
+
+	.transaction_top_search p {
+		font-size: 14px;
+		padding: 12px 15px;
+		border-radius: 5px;
+	}
+	.transaction_top_search p img {
+		width: 20px;
+		margin-right: 10px;
+	}
+	.transaction_top_menu ul li a {
+		font-size: 14px;
+	}
+
+	.account_content_area_wrapper {
+		flex-direction: column;
+		position: relative;
+		height: 100vh;
+	}
+	.account_content_left_area {
+		width: 100%;
+	}
+	.account_content_masterCard_area{
+		margin-left: 0px;
+		flex: 0 0 100%;
+		width:100%;
+		position: absolute;
+		background: #fff;
+/*		display: none;*/
+	}
+	.account_single_newAccount {
+		position: relative;
+		top: 00%;
+	}
+	.account_toggle_back a{
+		color: #111313;
+		font-size: 14px;
+		font-weight: 700;
+	}
+	.account_toggle_back a img{
+		width: 15px;
+		margin-right: 5px
+	}
+/*	.account_toggle_back {
+		position: absolute;
+		top: -40px;
+		left: 15px;
+	}*/
+	.account_toggle_back {
+		padding: 20px 0px;
+		background: #F3F3F3;
+		position: fixed;
+		display: block;
+		width: 100%;
+		margin-top: -65px;
+	}
+	.account_toglle_show_item{
+		display: none;
+	}
+	.account_content_currency_single_item{
+		border: 1px solid transparent;
+	}
+	.account_content_currency_single_item:hover.account_active_focus,
+	.account_content_currency_single_item.active {
+		border: 1px solid #009975;
+	}
+	.account_toggle_back {
+		display: block;
+	}
+	.curency_single_item_active p {
+		font-size: 10px;
+	}
+
+	.account_content_area_wrapper {
+		background: #EFF2F1;
+	}
+	.account_content_masterCard_area {
+/*		overflow: visible;*/
+	}
+	.account_tabs_hover_top{
+		display: none;
+	}
+
+	.account_content_currency_area {
+		height: 510px;
+	}
+	.account_content_currency_single_item {
+		margin-right:0px;
+	}
+	.account_content_currency_area {
+		margin-right: 0px; 
+	}
+
+	.account_single_newAccount {
+		margin-right: 0px; 
+		margin-right: -20px;
+		margin-left: -20px;
+		border-radius: 0px;
+	}
+	.card_details_single_item {
+		justify-content: space-between;
+	}
+
+	/*.account_in{
+		margin-bottom: 20px
+	}*/
+	.benifici_form_group_double .benifici_form_group {
+		flex: 0 0 49%;
+	}
+
+
+
+
+}
+
+
+
+
+
+
+@media all and (max-width: 575px){
+	.cuntry_usd_dolar h3 {
+		font-size: 22px;
+	}
+	.avalable_balance_dolar h1 {
+		font-size: 30px;
+	}
+	
+	.header_profile_account a img {
+		width: 30px;
+	}
+	.header_profile_notification a i {
+		font-size: 14px;
+	}
+	.header_profile_notification a {
+		width: 30px;
+		height: 30px;
+	}
+	.header_area_heading h3 {
+		color: #111313;
+		font-weight: 700;
+		font-size: 22px;
+	}
+	.working_blankCard_cont p {
+		padding: 20px 10px;
+		font-size: 14px;
+	}
+	.working_capital_right {
+		padding: 20px 10px;
+	}
+	.working_available_balance {
+		 padding-bottom: 0px; 
+	}
+	.cuntry_usd_single_item {
+		margin-right: 15px;
+	}
+	.cuntry_usd_single_item_img a img {
+		width: 40px;
+	}
+	.cuntry_usd_primary {
+		padding: 10px 0px;
+	}
+	.cuntry_usd_dolar h3 {
+		font-size: 18px;
+	}
+	/*.cuntry_usd_addnew a {
+		margin-top: 28px;
+	}*/
+	.cuntry_usd_addnew a {
+		font-size: 12px;
+		margin-top: 80px
+	}
+	.card_show_upgrade {
+		-webkit-box-flex: 0;
+		    -ms-flex: 0 0 100%;
+		        flex: 0 0 100%;
+	}
+	.card_show_addnew {
+		-webkit-box-flex: 0;
+		    -ms-flex: 0 0 100%;
+		        flex: 0 0 100%;
+		margin-top: 20px;
+		padding: 50px 0px;
+	}
+	.working_blankCard_area {
+		margin-top: 20px;
+	}
+	.mobile_logo {
+		margin-left: 10px;
+	}
+	.mobile_logo img{
+		width: 200px;
+	}
+	.header_profile_notification {
+		margin-right: 20px;
+	}
+	.home_transaction_area_wrapper {
+		padding: 30px 20px;
+	}
+	.today_single_item_img a i{
+		font-size: 22px;
+	}
+	.today_single_item_img a{
+		width: 45px;
+		height: 45px;
+	}
+	.profile_area_wrapper {
+		width: 230px;
+		left: -195%;
+	}
+	.trasaction_search_filter {
+		padding: 10px 10px;
+	}
+	.menu_Updat_goPro{
+		margin-top: 50px
+	}
+	.avalable_balance_dolar_btn a {
+		font-size: 12px;
+	}
+	.card_show_upgrade {
+		 margin-top: 0px; 
+	}
+	.avalable_balance_dolar {
+		flex: 0 0 100%;
+		margin-bottom: 20px
+	}
+	.avalable_balance_card {
+		flex: 0 0 100%;
+	}
+
+/*	transaction-page-start*/
+	.transaction_top_menu ul li a {
+		font-size: 14px;
+		padding: 10px 0px;
+		padding-bottom: 20px;
+	}
+	.transaction_top_menu_area {
+		padding: 0px 10px;
+	}
+	.transaction_today_yesterday {
+		padding: 0px 20px;
+	}
+	.pagination_area_wrapper {
+		display: none;
+	}
+	.overly_transaction_area {
+		width: 280px;
+	}
+	.ar-modal-content {
+		width: 280px;
+		position: absolute;
+		right: 100px;
+	}
+	.overly_card_area {
+		padding: 20px 10px;
+	}
+	.overly_content_area {
+		padding: 0px 10px;
+	}
+	.receipnt_details {
+		padding: 0px 0px;
+		 border: none; 
+	}
+	.trns-ar-drop-zone{
+		padding: 10px;
+	}
+	.transaction_note textarea {
+		height: 65px;
+	}
+	.modal-heade-ar {
+		top: -10px;
+		right: -10px;
+	}
+	.modal-heade-ar button i {
+		font-size: 22px;
+	}
+
+/*	transaction-page-end*/
+
+/*account-page-start*/
+	.account_masterCard_monthly_singleItem {
+		-webkit-box-orient: vertical;
+		-webkit-box-direction: normal;
+		    -ms-flex-direction: column;
+		        flex-direction: column;
+		-webkit-box-align: start;
+		    -ms-flex-align: start;
+		            -ms-grid-row-align: flex-start;
+		        align-items: flex-start;
+		padding: 20px;
+	}
+	.account_monthly_single_img a img{
+		width: 35px;
+	}
+	.account_monthly_single_cont h3 {
+		font-size: 16px;
+	}
+	.account_monthly_single_cont p {
+		font-size: 12px;
+	}
+/*	.tabs_area_account_navbar {
+		padding: 10px;
+	}*/
+	.account_card_dedails_area_wrapper {
+		padding: 15px;
+	}
+	.master_sendReceive_single a {
+		font-size: 12px;
+		font-weight: 400;
+	}
+	.account_masterCard_card_dolar h3 {
+		font-size: 20px;
+	}
+	.account_masterCard_card_dolar p {
+		font-size: 12px;
+	}
+/*account-page-end*/
+
+/*card-page-start*/
+	.cards_page_card {
+		-webkit-box-flex: 0;
+		    -ms-flex: 0 0 50%;
+		        flex: 0 0 50%;
+	}
+/*card-page-end*/
+
+/*user-page start*/
+	.user_dropdown_search {
+		-webkit-box-flex: 0;
+		    -ms-flex: 0 0 65%;
+		        flex: 0 0 65%;
+	}
+	.user_content_area_wrapper {
+		padding: 20px 10px;
+	}
+	.user_single_item_active p{
+		font-size: 12px;
+	}
+	.user_single_item_btn a {
+		font-size: 12px;
+		padding: 8px 15px;
+	}
+	.user_single_item span {
+		font-size: 10px;
+	}
+	.user_single_item_img a img {
+		width: 30px;
+	}
+	.user_single_item_img {
+		display: none;
+	}
+	.user_single_item_cont {
+		padding-left: 10px;
+	}
+	.user_details_area_single {
+		padding-right: 0px;
+	}
+	.user_action {
+		padding-right: 10px
+	}
+	.pagination_area_wrapper.user_pagination_area {
+		display:block;
+	}
+	.pagination_area ul li a {
+		font-size: 12px;
+		padding: 4px 8px;
+		border-radius: 5px;
+	}
+/*user-page end*/
+
+/*notification-page*/
+	.notification_tag_signle_item {
+		padding: 13px 10px;
+	}
+	.notification_content_single_item {
+		padding: 13px 10px;
+	}
+
+	.address_titile_area a {
+		font-size: 14px;
+	}
+	.address_titile_area a img {
+		margin-right: 5px;
+	}
+	.address_titile_area {
+		padding: 25px 10px;
+	}
+	.address_titile_area h3{
+		font-size: 14px;
+	}
+	.address_titile_area a {
+		font-size: 12px;
+	}
+	.address_titile_area a img{
+		width: 15PX;
+	}
+	.address_single_img a img {
+		width: 35px;
+	}
+	.address_single_cont p {
+		font-size: 15px;
+		padding-right: 5px
+	}
+
+/*	transferAmount*/
+	.transferAmount_title_feadback a {
+		font-size: 10px;
+	}
+	.transferAmount_title_close a {
+		font-size: 12px;
+	}
+	.transferAmount_title_transfer h3 {
+		font-size: 14px;
+	}
+	.transferAmount_user_information {
+		padding: 10px 10px;;
+	}
+	.transferAmount_user_information_img a img {
+		width: 35px;
+	}
+	.success_bank_trasfer p {
+		padding: 0px 20px; 
+	}
+
+	/*.benifici_addNew_receipnt_area {
+		width: 250px;
+	}*/
+	.benifici_addNew_personal_business a {
+		padding: 8px 0px;
+		text-align: center;
+	}
+
+	.working_capital_right_balance_card {
+		flex-direction:column;
+	}
+	.avalable_balance_dolar.working_available_balance {
+		padding-top: 0px
+	}
+	.single_notificaton_item{
+		align-items: flex-start;
+	}
+	.profile_notification_area {
+		top: 33px;
+	}
+	.transaction_top_search p span{
+		display: none;
+	}
+	.transaction_top_search p img{
+		margin-right: 0px
+	}
+	.transaction_top_search p {
+		padding: 6px 10px;
+	}
+	.overly_content p {
+		font-size: 14px;
+		padding: 5px 0px;
+	}
+	.modal.fade .modal-dialog {
+		transform: translate(0px,-10px);
+		transition: transform .3s ease-out;
+	}
+	.tran_search_input {
+		flex: 0 0 87%;
+	}
+	.modal.show .modal-dialog-ar {
+		margin-right: -100px;
+	}
+	.transaction_accordion .accordion-body {
+		padding-top: 0;
+	}
+
+
+	.modal.fade .modal-dialog {
+		transform: translate(0px,-30px);
+		transition: transform .3s ease-out;
+	}
+	.modal.show .modal-dialog-ar {
+		margin-right: -100px;
+		transition: 3s;
+	}
+	.overly_transaction_area {
+		width: 100%;
+	}
+	.modal-dialog {
+		max-width: 500px;
+		margin: 1.75rem auto;
+		max-width: 100%;
+	}
+	.ar-modal-content {
+		width: 100%;
+	}
+	.overly_transaction_area {
+		height: 730px;
+	}
+		.account_in{
+		display: none;
+	}
+	.account_out{
+		display: block;
+	}
+
+	.card_details_single_item {
+		 margin-bottom: 0px; 
+		flex-direction: column;
+		align-items: flex-start;
+	}
+	.card_details_single_acc_name {
+		margin-bottom: 10px;
+	}
+	.card_details_single_acc_bank {
+		margin-bottom: 10px;
+	}
+
+
+
+/*	.account_out{
+		display: none;
+	}
+	.account_toglle_show_item .account_out{
+		display: block;
+	}*/
+
+
+
+
+}
+
+
+
+
+@media all and (max-width: 450px){
+	.content_wrapper_area {
+		padding: 0px 10px;
+	}
+	.master_card_number h5 {
+		font-size: 10px;
+	}
+	.master_card_user > h5 {
+		font-size: 14px;
+	}
+	.avalable_balance_dolar h1 {
+		padding: 10px 0px;
+	}
+	.avalable_balance_dolar_btn a:first-child {
+		margin-bottom: 10px;
+	}
+	.avalable_balance_dolar_btn {
+		margin-top: 10px;
+	}
+	.avalable_balance_dolar h1 {
+		font-size: 20px;
+	}
+	.avalable_balance_dolar p {
+		font-size: 12px;
+	}
+	.avalable_balance_dolar_btn a {
+		font-size: 14px;
+	}
+	.today_single_item_img a img {
+		width: 30px;
+	}
+	.today_single_item_cont h5 {
+		font-size: 12px;
+	}
+	.today_single_item_cont p {
+		font-size: 10px;
+	}
+	.today_single_item_img {
+		margin-right: 10px;
+	}
+	.today_single_item_right p {
+		font-size: 12px;
+	}
+	.home_transaction_area_wrapper {
+		padding: 30px 15px 30px 15px;
+	}
+	.card_show_upgrade_cont p {
+		font-size: 14px;
+	}
+	.card_show_upgrade_img a img {
+		width: 50px;
+	}
+	.card_show_upgrade_btn a {
+		font-size: 14px;
+		padding: 10px 10px;
+	}
+	.card_show_upgrade {
+		margin-right: 10px;
+	}
+	.card_show_addnew_cont a {
+		padding: 20px 10px;
+		text-align: center;
+	}
+	.working_blankCard_img a img {
+		width: 100px;
+		text-align: center;
+	}
+	.working_blankCard_img {
+		padding: 0px;
+		padding-top: 30px
+	}
+	
+	.cuntry_usd_primary p {
+		font-size: 10px;
+		padding: 2px 10px;
+	}
+	.mobile_logo {
+		margin-left: 0px;
+	}
+	.header_top_profile {
+		margin-left: -30px;
+	}
+	.header_profile_notification {
+		margin-right: 10px;
+	}
+	.profile_area_wrapper {
+		left: -250%;
+	}
+	.profile_notification_area {
+		width: 245px;
+	}
+	.profile_notification_area {
+		left: -210px;
+	}
+	.card_show_addnew {
+		padding: 30px 0px;
+	}
+	.card_show_upgrade {
+		padding: 0px 20px;
+	}
+	
+/*	benifici-page-start*/
+	.benifici_mb_user_name h3 {
+		font-size: 20px;
+	}
+/*	benifici-page-end*/
+
+/*cards-page-start*/
+	.cards_page_card {
+		-webkit-box-flex: 0;
+		    -ms-flex: 0 0 65%;
+		        flex: 0 0 65%;
+	}
+/*card-page-end*/
+	.profile_notification_area {
+		left: -205px;
+	}
+
+	.cuntry_usd_single_item {
+		min-width: 195px;
+	}
+
+	.transaction_dropdown_single_item a {
+		padding: 10px 5px;
+	}
+	.trans_toggle_dropdown_delete{
+		padding: 5px 5px;
+	}
+
+	.overly_transaction_area {
+		width: 240px;
+	}
+	.ar-modal-content {
+		width: 240px;
+	}
+	.upload_invoice_img h5 {
+		font-size: 14px;
+	}
+	.receipnt_single_details p {
+		font-size: 10px;
+	}
+	.drop_ar_content span {
+		font-size: 12px;
+	}
+	.sender_details a {
+		font-size: 14px;
+	}
+	.overly_content p {
+		font-size: 12px;
+		padding: 5px 0px;
+	}
+	.tran_search_input {
+		flex: 0 0 82%;
+	}
+	.overly_transaction_area {
+		width: 100%;
+	}
+	.modal-dialog {
+		max-width: 500px;
+		margin: 1.75rem auto;
+		max-width: 100%;
+	}
+	.ar-modal-content {
+		width: 100%;
+	}
+	.overly_transaction_area {
+		height: 720px;
+	}
+}
